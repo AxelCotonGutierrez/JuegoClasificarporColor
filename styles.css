@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito';
+}
+
+body {
+  text-align: center;
+  color: #0c4fe1;
+  height: 100%; 
+}
+
+h1 {
+  color: #EABE3F;
+  padding: 50px;
+  font-size: 40px;
+}
+
+.container {
+  background-color: none;
+  max-width: 80%;
+  margin: auto;
+  border: 3px solid #EABE3F;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding: 50px 0;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* Evitar desbordamiento horizontal en dispositivos móviles */
+}
+
+.container2 {
+  background-color: none;
+  max-width: 80%;
+  margin: auto;
+  border: 3px solid #EABE3F;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding: 50px 0;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* Evitar desbordamiento horizontal en dispositivos móviles */
+}
+
+.textosuperior {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  color:black;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+.pregunta {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 35px;
+  justify-content: center;
+  align-items: center;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+
+#result {
+  font-size: 24px;
+  margin-top: 20px;
+  font-weight: bold;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+
+
+.shape {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.square {
+  width: 50px; /* Variar el tamaño según sea necesario */
+  height: 50px;
+  border: 2px solid black;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid black;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.rombus {
+  width: 30px; 
+  height: 30px; 
+  border: 2px solid #555; 
+  -webkit-transform: rotate(45deg) skew(15deg, 15deg);
+  -moz-transform: rotate(45deg) skew(15deg, 15deg);
+  -ms-transform: rotate(45deg) skew(15deg, 15deg);
+  -o-transform: rotate(45deg) skew(15deg, 15deg);
+  transform: rotate(45deg) skew(15deg, 15deg);
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+
+
+
+.white { background-color: white; }
+.black { background-color: black; }
+.pink { background-color: pink; }
+.brown { background-color: brown; }
+.green { background-color: green; }
+.red { background-color: red; }
+.yellow { background-color: yellow; }
+.blue { background-color: blue; }
+.orange { background-color: orange; }
+.violet { background-color: violet; }
+
+.classification-areas {
+  display: flex;
+  justify-content: center; /* Centra los vasos horizontalmente */
+  align-items: flex-start; /* Alinea los vasos en la parte superior */
+}
+
+.classification-area {
+  width: 150px; /* Ancho del vaso */
+  height: 200px; /* Alto del vaso */
+  background-color: rgba(255, 255, 255, 0.5); /* Color semi-transparente */
+  border: 3px solid #666; /* Borde sólido para los lados y la parte inferior del vaso */
+  border-top: none; /* No hay borde en la parte superior */
+  margin: 10px;
+  padding-top: 10px; /* Espacio en la parte superior */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para dar efecto 3D */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Alinear las formas en la parte superior del vaso */
+  flex-wrap: wrap;
+}
+
+.classification-area:hover {
+  background-color: rgba(255, 255, 255, 0.7);
+  border-color: #444; /* Cambio de estilo al pasar el ratón por encima */
+}
+
+.color-indicator {
+  width: 30px;
+  height: 30px;
+  border: 2px solid #000;
+  margin: 10px auto;
+  
+}
+
+
+
+#result {
+  margin-top: 10px;
+}
+
+.guess-button {
+    background-color: #4285f4;
+    border: 2px solid #000;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+
+
+@media (max-width: 768px) {
+  .container, .container2 {
+    max-width: 80%; /* Ancho completo en dispositivos móviles */
+    flex-wrap: wrap; /* Permitir envolver las imágenes en múltiples líneas */
+  }
+  .classification-area {
+    width: 100px; /* Reducir el ancho del contenedor */
+    height: 160px; /* Reducir la altura del contenedor */
+    margin: 5px; /* Reducir el margen para ahorrar espacio */
+}
+
+.shape {
+    /* Ajustar el tamaño de las figuras */
+    transform: scale(0.8); /* Reducir el tamaño al 80% */
+}
+
+.square {
+  width: 30px; /* Variar el tamaño según sea necesario */
+  height: 30px;
+  }
+
+.circle {
+  width: 30px;
+  height: 30px;
+  }
+  .rombus {
+    width: 20px; 
+    height: 20px; 
+    border: 2px solid #555; 
+    -webkit-transform: rotate(45deg) skew(15deg, 15deg);
+    -moz-transform: rotate(45deg) skew(15deg, 15deg);
+    -ms-transform: rotate(45deg) skew(15deg, 15deg);
+    -o-transform: rotate(45deg) skew(15deg, 15deg);
+    transform: rotate(45deg) skew(15deg, 15deg);
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .pregunta {
+     
+    font-size: 25px;
+  
+  }
+
+  .guess-button {
+    font-size: 12px;
+    padding: 5x 5px;
+      }
+
+ 
+  .result {
+    font-size: 20px;
+   
+  }
+  
+}
