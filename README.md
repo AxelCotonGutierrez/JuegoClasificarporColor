@@ -8,7 +8,7 @@ Juego para Infantil para aprender los colores secundarios.
 
 Puedes probar el juego en esta url:
 
-https://axelcotongutierrez.github.io/Juego-de-mezclas-de-colores/
+https://axelcotongutierrez.github.io/JuegoClasificarporColor/
 
 
 ¡Bienvenido al desafiante "Juego de Clasificación por Color"! ¿Estás listo para poner a prueba tu habilidad para reconocer y clasificar distintas figuras geométricas por color? Prepárate para sumergirte en este emocionante desafío y demostrar tu destreza en la identificación y separación de formas.
