@@ -1,6 +1,6 @@
-# Juego de las Mezclas de Colores.
+# Juego de Clasificación por Color.
 
-![Juego de las Mezclas de los colores Primarios](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/0013JColores/JC04.jpg)
+![Juego de Clasificación por Color](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/0013JColores/JC05.jpg)
 
 Dentro del blog: https://axelcotongutierrez.github.io/learningmathematicas/
 
@@ -11,10 +11,10 @@ Puedes probar el juego en esta url:
 https://axelcotongutierrez.github.io/Juego-de-mezclas-de-colores/
 
 
-¡Bienvenido al emocionante "Juego de las Mezclas de Colores"! ¿Estás preparado para poner a prueba tu agudeza visual y destreza en la mezcla de colores? Sumérgete en este desafío lleno de tonalidades y demuestra que eres un verdadero experto en la mezcla de colores primarios.
+¡Bienvenido al desafiante "Juego de Clasificación por Color"! ¿Estás listo para poner a prueba tu habilidad para reconocer y clasificar distintas figuras geométricas por color? Prepárate para sumergirte en este emocionante desafío y demostrar tu destreza en la identificación y separación de formas.
 
-En este intrigante desafío, te presentaremos dos colores, y tu tarea es descubrir el resultado de su mezcla. La pantalla mostrará una paleta con el color resultante, y deberás confiar en tu percepción para seleccionar la opción correcta. Pero espera, ¡aquí viene lo emocionante! A medida que avanzas, las combinaciones se volverán más desafiantes, poniendo a prueba tu habilidad para identificar con precisión los colores resultantes.
+En este intrigante juego, se te presentarán figuras geométricas de dos colores diferentes, y tu tarea será separarlas correctamente en dos contenedores distintos según su color. Confiando en tu agudeza visual y concentración, deberás identificar con precisión cada figura y asignarla al contenedor correspondiente. ¡Pero eso no es todo! A medida que avances, las combinaciones de formas se volverán más complejas, poniendo a prueba tus habilidades de clasificación y tu capacidad para mantener la concentración en situaciones desafiantes.
 
-¿Crees tener la destreza necesaria para conquistar este reto cromático? La mezcla de colores puede ser todo un desafío, pero con agudeza visual y concentración, ¡estarás listo para la victoria! Adelante, demuestra tu maestría en la percepción de colores y conquista este juego lleno de emoción.
+¿Crees tener la destreza necesaria para superar este desafío de clasificación de formas? La separación de figuras geométricas puede ser todo un reto, pero con tu habilidad y enfoque, ¡estás preparado para la victoria! ¡Demuestra tu maestría en la identificación de colores y conquista este juego lleno de emoción!
 
-¡Sumérgete en la experiencia y desafía tus habilidades de percepción visual en el "Juego de Mezclas los Colores"! ¿Estás listo para aceptar el desafío y demostrar que eres un experto en la mezcla de colores? ¡Adelante, juega y vive la emoción de esta fascinante aventura cromática!
+¡Sumérgete en la experiencia y desafía tus habilidades de clasificación visual en el "Juego de Clasificación por Color"! ¿Estás listo para aceptar el desafío y demostrar tu habilidad en la identificación y clasificación de figuras geométricas por color? ¡Adelante, juega y vive la emoción de esta fascinante aventura de clasificación de colores!
